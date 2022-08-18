@@ -1,0 +1,41 @@
+body {
+    background-color: whitesmoke;
+  }
+
+  body {
+    color: black;
+  }
+  ol {
+    align-items: center;
+  }
+
+  h1 {
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+  }
+  
+  h2 {
+    letter-spacing: -1px;
+    text-align: left;
+  }
+  img {
+    border-radius: 8px;
+  }
+
+  p {
+    font-family:'Times New Roman', Times, serif
+  }
+
+p{
+    font-size: medium;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+

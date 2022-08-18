@@ -1,0 +1,54 @@
+body  {
+
+    background-color: lightblue;
+    background-size: 50%;
+  }
+  
+  h1 {
+    text-align: right;
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+  }
+
+  h4 {
+    text-align: right;
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+  }
+  
+  li:last-child {
+    border-right: royalblue;
+  }
+  li {
+    display: inline;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightcoral;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: lightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: seagreen;
+    border-color: lightcoral;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
+  img {
+    margin-left: 15%;
+  }

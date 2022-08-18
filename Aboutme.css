@@ -1,0 +1,17 @@
+.navlist {
+    display: inline;
+    background-color: lightcoral;
+    color: lightcoral;
+    text-decoration: seagreen;
+    padding: 14px 16px;
+}
+
+li:last-child {
+    border-right: 1px coral;
+   }
+   .navlist a:hover {
+    background-color: lightblue;
+   }
+  h1 {
+    background-color: lightcoral;
+  }
